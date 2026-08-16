@@ -1,0 +1,199 @@
+song_name,artist,album,genre,track_price_inr,album_price_inr,country,currency,is_streamable,duration_min,release_year,era,is_recent,price_category
+Pehli Nazar Mein,Atif Aslam & Pritam,Race (Original Motion Picture Soundtrack),Bollywood,18.0,250.0,IND,INR,True,5.21,2008,2000s,NO,Premium
+Hawayein,Pritam & Arijit Singh,Jab Harry Met Sejal (Original Motion Picture Soundtrack),Bollywood,18.0,220.0,IND,INR,True,4.83,2017,2015s,NO,Premium
+Zara Sa,KK & Pritam,Jannat (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,5.06,2008,2000s,NO,Premium
+"Pardesiya (From ""Param Sundari"")","Sachin-Jigar, Sonu Nigam & Krishnakali Saha","Pardesiya (From ""Param Sundari"") - Single",Soundtrack,15.0,15.0,IND,INR,True,3.86,2025,2020s,YES,Budget
+"Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)",Mithoon,Shivaay (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,6.24,2016,2015s,NO,Premium
+"Akhiyaan Gulaab (From ""Teri Baaton Mein Aisa Uljha Jiya"")",Mitraz,"Akhiyaan Gulaab (From ""Teri Baaton Mein Aisa Uljha Jiya"") - Single",Bollywood,18.0,18.0,IND,INR,True,2.85,2024,2020s,YES,Premium
+Ilahi,Pritam & Arijit Singh,Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,3.82,2013,2010s,NO,Premium
+Ranjha,Jasleen Royal & B. Praak,Shershaah (Original Motion Picture Soundtrack),Bollywood,18.0,108.0,IND,INR,True,3.81,2021,2020s,YES,Premium
+Raataan Lambiyan,"Tanishk Bagchi, Jubin Nautiyal & Asees Kaur",Shershaah (Original Motion Picture Soundtrack),Bollywood,18.0,108.0,IND,INR,True,3.84,2021,2020s,YES,Premium
+Tera Hone Laga Hoon,"Atif Aslam, Alisha Chinai & Pritam",Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack),Bollywood,18.0,250.0,IND,INR,True,5.0,2009,2000s,NO,Premium
+Tujhe Kitna Chahne Lage,Arijit Singh,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.75,2019,2015s,NO,Premium
+Iktara,"Amit Trivedi, Kavita Seth & Amitabh Bhattacharya",Wake Up Sid (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.23,2009,2000s,NO,Premium
+Tera Ban Jaunga,Akhil Sachdeva & Tulsi Kumar,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,3.94,2019,2015s,NO,Premium
+"Naina (From ""Crew"")","Diljit Dosanjh, Badshah & Raj Ranjodh","Naina (From ""Crew"") - Single",Soundtrack,18.0,18.0,IND,INR,True,3.0,2024,2020s,YES,Premium
+Bollywood,Akhil,Bollywood - Single,Indian Pop,18.0,18.0,IND,INR,True,2.6,2017,2015s,NO,Premium
+Ghungroo,"Vishal & Shekhar, Arijit Singh & Shilpa Rao",War (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,5.05,2019,2015s,NO,Budget
+Sajni,"Arijit Singh, Ram Sampath & Prashant Pandey",Laapataa Ladies (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,2.83,2024,2020s,YES,Premium
+Dooriyan,Pritam & Mohit Chauhan,Love Aaj Kal (Original Motion Picture Soundtrack),Bollywood,18.0,170.0,IND,INR,True,5.62,2009,2000s,NO,Premium
+"Janiye (From the Netflix Film ""Chor Nikal Ke Bhaga"") [feat. Rashmeet Kaur]",Vishal Mishra,"Janiye (feat. Rashmeet Kaur) [From the Netflix Film ""Chor Nikal Ke Bhaga""]  - Single",Original Score,15.0,15.0,IND,INR,True,3.72,2023,2020s,YES,Budget
+Tum Ho,Mohit Chauhan & Suzanne D'Mello,Rockstar (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,5.28,2011,2010s,NO,Premium
+Ishq Hai,"Anurag Saikia, Raj Shekhar, Romy & Amarabha Banerjee",Mismatched: Season 3 (Soundtrack from the Netflix Series),Bollywood,18.0,60.0,IND,INR,True,5.21,2024,2020s,YES,Premium
+Tum Se Hi,Pritam & Mohit Chauhan,Jab We Met (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,5.35,2007,2000s,NO,Premium
+"Tauba Tauba (From ""Bad Newz"")",Karan Aujla,"Tauba Tauba (From ""Bad Newz"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.45,2024,2020s,YES,Premium
+"Naina (From ""Crew"")","Diljit Dosanjh, Badshah & Raj Ranjodh",Crew (Original Motion Picture Soundtrack),Soundtrack,18.0,120.0,IND,INR,True,3.0,2024,2020s,YES,Premium
+Duniyaa,Akhil & Dhvani Bhanushali,Luka Chuppi (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,3.71,2019,2015s,NO,Premium
+"Deewaniyat (From ""Ek Deewane Ki Deewaniyat"") [Original Soundtrack]","Vishal Mishra, Kaushik-Guddu & Kunaal Vermaa","Deewaniyat (From ""Ek Deewane Ki Deewaniyat"") [Original Soundtrack] - Single",Soundtrack,11.0,11.0,IND,INR,True,4.3,2025,2020s,YES,Budget
+Ae Dil Hai Mushkil (Title Track),Pritam & Arijit Singh,Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack],Bollywood,18.0,160.0,IND,INR,True,4.48,2016,2015s,NO,Premium
+Channa Mereya,Pritam & Arijit Singh,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.82,2016,2015s,NO,Premium
+"Apna Bana Le (From ""Bhediya"")","Arijit Singh, Sachin-Jigar & Amitabh Bhattacharya","Apna Bana Le (From ""Bhediya"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.36,2022,2020s,YES,Premium
+Kabira,"Pritam, Tochi Raina & Rekha Bhardwaj",Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,3.72,2013,2010s,NO,Premium
+Bulleya,"Pritam, Amit Mishra & Shilpa Rao",Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack],Bollywood,18.0,160.0,IND,INR,True,5.82,2016,2015s,NO,Premium
+Phir Se Ud Chala,Mohit Chauhan,Rockstar (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.48,2011,2010s,NO,Premium
+Chahun Main Ya Naa,Palak Muchhal & Arijit Singh,Aashiqui 2 (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,5.08,2013,2010s,NO,Premium
+Soch Na Sake,"Amaal Mallik, Arijit Singh & Tulsi Kumar",Airlift (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,4.69,2015,2010s,NO,Premium
+Aise Kyun (Ghazal Version),"Mismatched - Cast, Rekha Bhardwaj, Anurag Saikia & Raj Shekhar",Mismatched: Season 2 (Soundtrack from the Netflix Series),Soundtrack,15.0,120.0,IND,INR,True,5.48,2022,2020s,YES,Budget
+Humsafar,Akhil Sachdeva & Mansheel Gujral,Badrinath Ki Dulhania (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,4.47,2017,2015s,NO,Premium
+Kaise Hua,Vishal Mishra,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,3.91,2019,2015s,NO,Premium
+Jeena Jeena,"Sachin-Jigar, Atif Aslam & Priya Saraiya",Badlapur (Original Motion Picture Soundtrack),Bollywood,18.0,144.0,IND,INR,True,3.82,2015,2010s,NO,Premium
+Namo Namo,Amit Trivedi,Kedarnath (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,5.37,2018,2015s,NO,Premium
+Pehle Bhi Main,Vishal Mishra & Raj Shekhar,ANIMAL (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,4.17,2023,2020s,YES,Premium
+Tu Jaane Na,Atif Aslam & Pritam,Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack),Bollywood,18.0,250.0,IND,INR,True,5.7,2009,2000s,NO,Premium
+Tera Yaar Hoon Main,Arijit Singh,Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,4.41,2018,2015s,NO,Premium
+Bom Diggy Diggy,Zack Knight & Jasmin Walia,Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,3.98,2018,2015s,NO,Premium
+Kal Ho Naa Ho,Shankar Ehsaan Loy & Sonu Nigam,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,5.35,2003,2000s,NO,Premium
+"Chaleya (From ""Jawan"")","Anirudh Ravichander, Arijit Singh, Shilpa Rao & Kumaar","Chaleya (From ""Jawan"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.34,2023,2020s,YES,Premium
+Aabaad Barbaad,Pritam & Arijit Singh,Ludo (Original Motion Picture Soundtrack),Bollywood,18.0,80.0,IND,INR,True,5.15,2020,2015s,NO,Premium
+"Maiyya Mainu (From ""Jersey"")",Sachet-Parampara & Sachet Tandon,"Maiyya Mainu (From ""Jersey"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.86,2021,2020s,YES,Premium
+Shayad,Pritam & Arijit Singh,Love Aaj Kal (Original Motion Picture Soundtrack),Bollywood,18.0,190.0,IND,INR,True,4.13,2020,2015s,NO,Premium
+Proper Patola,"Badshah, Diljit Dosanjh & Aastha Gill",Namaste England (Original Motion Picture Soundtrack),Bollywood,18.0,126.0,IND,INR,True,2.98,2018,2015s,NO,Premium
+"Hawayein (From ""Jab Harry Met Sejal"")",Pritam & Arijit Singh,"Hawayein (From ""Jab Harry Met Sejal"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.83,2017,2015s,NO,Premium
+Khuda Jaane,"Vishal & Shekhar, KK & Shilpa Rao",Bachna Ae Haseeno (Original Soundtrack),Bollywood,11.0,-1.0,IND,INR,True,5.62,2008,2000s,NO,Budget
+Mere Liye,Akhil Sachdeva,Broken but Beautiful Season 3 (Original Series Soundtrack),TV Soundtrack,18.0,90.0,IND,INR,True,4.89,2021,2020s,YES,Premium
+Sanam Re,Mithoon & Arijit Singh,Sanam Re (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,5.15,2015,2010s,NO,Premium
+Mere Sohneya,Sachet Tandon & Parampara Tandon,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,3.22,2019,2015s,NO,Premium
+Samjhawan,"Jawad Ahmed, Sharib Toshi, Arijit Singh & Shreya Ghoshal",Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.49,2014,2010s,NO,Premium
+Jhoome Jo Pathaan,"Vishal & Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani & Shekhar Ravjiani",Pathaan (Original Motion Picture Soundtrack),Bollywood,11.0,-1.0,IND,INR,True,3.47,2022,2020s,YES,Budget
+O Saathi,Atif Aslam,Baaghi 2 (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,4.2,2018,2015s,NO,Premium
+Maahi Ve,A.R. Rahman,Highway (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.01,2014,2010s,NO,Premium
+Tune Jo Na Kaha,Mohit Chauhan,New York (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,5.17,2009,2000s,NO,Budget
+"Ranjha (From ""Shershaah"")",Jasleen Royal & B. Praak,"Ranjha (From ""Shershaah"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.81,2021,2020s,YES,Premium
+Bekhayali,Sachet Tandon,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,6.2,2019,2015s,NO,Premium
+Chaiyya Chaiyya,Sukhwinder Singh & Sapna Awasthi,Dil Se (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,6.78,1998,90s,NO,Premium
+"Shayad (From ""Love Aaj Kal"")",Pritam & Arijit Singh,"Shayad (From ""Love Aaj Kal"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.13,2020,2015s,NO,Premium
+Qaafirana,Arijit Singh & Nikhita Gandhi,Kedarnath (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,5.7,2018,2015s,NO,Premium
+Agar Tum Saath Ho,Alka Yagnik & Arijit Singh,Tamasha (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,5.68,2015,2010s,NO,Premium
+Pehla Pyaar,Vishal Mishra & Armaan Malik,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.54,2019,2015s,NO,Premium
+Naina Da Kya Kasoor,Amit Trivedi,Andhadhun (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,3.52,2018,2015s,NO,Premium
+Tere Liye,Atif Aslam & Shreya Ghoshal,Prince (Original Motion Picture Soundtrack),Bollywood,15.0,240.0,IND,INR,True,4.66,2010,2000s,NO,Budget
+Kabhi Kabhi Aditi,Rashid Ali,Jaane Tu... Ya Jaane Na (Original Motion Picture Soundtrack),Bollywood,15.0,80.0,IND,INR,True,3.65,2008,2000s,NO,Budget
+Bollywood (Acoustic Guitar),New Years Eve Romantic Song Specialists,"New Years Eve Romantic Dinner – Smooth Jazz, Lounge & Sexy Guitar Dinner Music for New Year's Eve Romantic Night",Instrumental,15.0,120.0,IND,INR,True,4.97,2015,2010s,NO,Budget
+My Dil Goes Mmmm,"Vishal & Shekhar, Gayatri Iyer & Shaan",Salaam Namaste (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,7.55,2005,2000s,NO,Budget
+Maula Mere Maula,Roop Kumar Rathod,Anwar (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,6.07,2006,2000s,NO,Premium
+"Ghungroo (From ""War"")","Arijit Singh, Shilpa Rao & Vishal & Shekhar","Ghungroo (From ""War"") - Single",Bollywood,18.0,18.0,IND,INR,True,5.05,2019,2015s,NO,Premium
+"Kesariya (From ""Brahmastra"")","Pritam, Arijit Singh & Amitabh Bhattacharya","Kesariya (From ""Brahmastra"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.47,2022,2020s,YES,Premium
+The Humma Song,"A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati & Jubin Nautiyal",OK Jaanu (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,2.99,2016,2015s,NO,Premium
+Saiyaara,"Tanishk Bagchi, Faheem Abdullah, Arslan Nizami & Irshad Kamil",Saiyaara (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,6.18,2025,2020s,YES,Budget
+Kalank (Title Track),Arijit Singh,Kalank (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,5.19,2018,2015s,NO,Premium
+Nadaan Parinde,A.R. Rahman & Mohit Chauhan,Rockstar (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,6.4,2011,2010s,NO,Premium
+"Deva Deva (From ""Brahmastra"")","Pritam, Arijit Singh, Amitabh Bhattacharya & Jonita Gandhi","Deva Deva (From ""Brahmastra"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.65,2022,2020s,YES,Premium
+Makhna,"Tanishk Bagchi, Yasser Desai & Asees Kaur",Drive (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,3.05,2019,2015s,NO,Premium
+Raabta,Pritam & Arijit Singh,Agent Vinod (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,4.06,2012,2010s,NO,Premium
+Kya Mujhe Pyaar Hai,Pritam & KK,Woh Lamhe (Original Motion Picture Soundtrack),Bollywood,18.0,80.0,IND,INR,True,4.44,2006,2000s,NO,Premium
+Yeh Fitoor Mera,Arijit Singh,Fitoor (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,4.72,2016,2015s,NO,Premium
+Channa Mereya,Pritam & Arijit Singh,Ae Dil Hai Mushkil (Deluxe Edition) [Original Motion Picture Soundtrack],Bollywood,18.0,160.0,IND,INR,True,4.82,2016,2015s,NO,Premium
+Bin Tere,"Shafqat Amanat Ali, Vishal & Shekhar & Sunidhi Chauhan",I Hate Luv Storys (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,5.51,2010,2000s,NO,Premium
+Tujhe Bhula Diya,"Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar",Anjaana Anjaani (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.66,2010,2000s,NO,Premium
+Ye Tune Kya Kiya,Pritam & Javed Bashir,Once Upon Ay Time In Mumbai Dobaara! (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,5.24,2013,2010s,NO,Premium
+Main Rang Sharbaton Ka,"Atif Aslam, Chinmayi Sripada & Pritam",Phata Poster Nikhla Hero (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,4.39,2013,2010s,NO,Premium
+Kesariya,"Pritam, Arijit Singh & Amitabh Bhattacharya",Brahmastra (Original Motion Picture Soundtrack),Bollywood,18.0,162.0,IND,INR,True,4.47,2022,2020s,YES,Premium
+Nashe Si Chadh Gayi,"Vishal & Shekhar, Arijit Singh & Caralisa Monteiro",Befikre (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,4.08,2016,2015s,NO,Budget
+"Raanjhan (From ""Do Patti"")","Sachet-Parampara, Parampara Tandon & Kausar Munir","Raanjhan (From ""Do Patti"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.0,2024,2020s,YES,Premium
+Kun Faya Kun,"A.R. Rahman, Javed Ali & Mohit Chauhan",Rockstar (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,7.84,2011,2010s,NO,Premium
+"Soni Soni (From ""Ishq Vishk Rebound"")","Darshan Raval, Jonita Gandhi & Rochak Kohli",Ishq Vishk Rebound (Original Motion Picture Soundtrack),Soundtrack,18.0,120.0,IND,INR,True,2.95,2024,2020s,YES,Premium
+Satranga,"Arijit Singh, Shreyas Puranik & Siddharth-Garima",ANIMAL (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,4.52,2023,2020s,YES,Premium
+Raanjhanaa,"A.R. Rahman, Jaswinder Singh & Shiraz Uppal",Raanjhanaa (Original Motion Picture Soundtrack),Bollywood,18.0,160.0,IND,INR,True,4.24,2013,2010s,NO,Premium
+Akhiyaan Gulaab,Mitraz,Teri Baaton Mein Aisa Uljha Jiya (Original Motion Picture Soundtrack) - EP,Bollywood,18.0,60.0,IND,INR,True,2.85,2024,2020s,YES,Premium
+Jaiye Sajana,"Shashwat Sachdev, Jasmine Sandlas & Satinder Sartaaj",Dhurandhar The Revenge (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,2.99,2026,2020s,YES,Premium
+Kar Gayi Chull,"Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar & Neha Kakkar",Kapoor & Sons (Since 1921) [Original Motion Picture Soundtrack],Bollywood,18.0,90.0,IND,INR,True,3.13,2016,2015s,NO,Premium
+Enna Sona,A.R. Rahman & Arijit Singh,OK Jaanu (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,3.56,2016,2015s,NO,Premium
+Paisa Hai Toh,"Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya",Farzi (Original Motion Picture Soundtrack) - Single,Bollywood,18.0,54.0,IND,INR,True,3.14,2023,2020s,YES,Premium
+Barbaad,The Rish & Jubin Nautiyal,Saiyaara (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,5.95,2025,2020s,YES,Budget
+"Dilbar (From ""Satyameva Jayate"")","Neha Kakkar, Dhvani Bhanusali, Ikka & Tanishk Bagchi","Dilbar (From ""Satyameva Jayate"") - Single",Bollywood,,,IND,INR,True,3.07,2018,2015s,NO,Premium
+Chaleya,"Anirudh Ravichander, Arijit Singh, Shilpa Rao & Kumaar",Jawan (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,3.34,2023,2020s,YES,Premium
+Tainu Khabar Nahi,"Sachin-Jigar, Arijit Singh & Amitabh Bhattacharya",Munjya (Original Motion Picture Soundtrack),Bollywood,18.0,72.0,IND,INR,True,3.14,2024,2020s,YES,Premium
+Tum Hi Ho,Mithoon & Arijit Singh,Aashiqui 2 (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,4.37,2013,2010s,NO,Premium
+Besharam Rang,"Vishal & Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani & Shekhar Ravjiani",Pathaan (Original Motion Picture Soundtrack),Bollywood,11.0,-1.0,IND,INR,True,4.31,2022,2020s,YES,Budget
+"Ek Ladki Ko Dekha Toh Aisa Laga (From ""Ek Ladki Ko Dekha Toh Aisa Laga"")",Darshan Raval & Rochak Kohli,"Ek Ladki Ko Dekha Toh Aisa Laga (From ""Ek Ladki Ko Dekha Toh Aisa Laga"") - Single",Bollywood,18.0,18.0,IND,INR,True,2.59,2019,2015s,NO,Premium
+Bollywood,Dreamgirl,Dreamgirl,Pop,15.0,120.0,IND,INR,True,3.6,2018,2015s,NO,Budget
+"Doobey (From ""Gehraiyaan"")","OAFF, Savera, Lothika & Kausar Munir","Doobey (From ""Gehraiyaan"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.66,2022,2020s,YES,Premium
+Hamari Adhuri Kahani (Title Track),Jeet Gannguli & Arijit Singh,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,6.65,2015,2010s,NO,Premium
+Tere Bina,"A.R. Rahman, Chinmayi Sripada, Murtuza Khan & Qadir Khan",Guru (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,5.16,2006,2000s,NO,Premium
+Arjan Vailly,Manan Bhardwaj & Bhupinder Babbal,ANIMAL (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,3.04,2023,2020s,YES,Premium
+"Aaj Ki Raat (From ""Stree 2"")","Madhubanti Bagchi, Divya Kumar, Sachin-Jigar & Amitabh Bhattacharya","Aaj Ki Raat (From ""Stree 2"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.81,2024,2020s,YES,Premium
+Labon Ko,Pritam & KK,Bhool Bhulaiyaa (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,5.68,2007,2000s,NO,Premium
+Kho Gaye Hum Kahan,Jasleen Royal & Prateek Kuhad,Baar Baar Dekho (Original Motion Picture Soundtrack),Bollywood,18.0,108.0,IND,INR,True,3.55,2016,2015s,NO,Premium
+Kya Yahi Pyar Hai,Lata Mangeshkar & Kishore Kumar,Rocky (Original Soundtrack),Soundtrack,15.0,60.0,IND,INR,True,6.41,1981,80s,NO,Budget
+Ajab Si,KK & Vishal & Shekhar,Om Shanti Om (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,4.03,2005,2000s,NO,Premium
+Humnava,Mithoon & Papon,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,5.48,2015,2010s,NO,Premium
+Sunn Raha Hai,Ankit Tiwari,Aashiqui 2 (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,6.5,2013,2010s,NO,Premium
+"Raataan Lambiyan (From ""Shershaah"")","Tanishk Bagchi, Jubin Nautiyal & Asees Kaur","Raataan Lambiyan (From ""Shershaah"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.84,2021,2020s,YES,Premium
+"Tere Vaaste (From ""Zara Hatke Zara Bachke"")","Sachin-Jigar, Varun Jain, Shadab Faridi, Altamash Faridi & Amitabh Bhattacharya","Tere Vaaste (From ""Zara Hatke Zara Bachke"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.15,2023,2020s,YES,Premium
+Channa Ve,Akhil Sachdeva & Mansheel Gujral,Channa Ve (Original Motion Picture Soundtrack) - Single,Bollywood,18.0,18.0,IND,INR,True,3.53,2020,2015s,NO,Premium
+Ruk Ja O Dil Deewane,Udit Narayan,Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack) [Dialogues Version],Bollywood,18.0,120.0,IND,INR,True,5.21,1961,,NO,Premium
+Khaabon Ke Parinday,Alyssa Mendonsa & Mohit Chauhan,Zindagi Na Milegi Dobara (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,4.2,2011,2010s,NO,Premium
+Gallan Goodiyaan,"Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan & Sukhwinder Singh",Dil Dhadakne Do (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,4.94,2015,2010s,NO,Premium
+Mitwa,"Caralisa Monteiro, Shafqat Amanat Ali, Shankar Mahadevan & Shankar Ehsaan Loy",Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,6.38,2006,2000s,NO,Premium
+Kaun Tujhe,Palak Muchhal,M.S. Dhoni: The Untold Story (Original Motion Picture Soundtrack),Bollywood,18.0,80.0,IND,INR,True,4.02,2016,2015s,NO,Premium
+Taal Se Taal,Alka Yagnik & Udit Narayan,Taal (Original Motion Picture Soundtrack),Bollywood,18.0,170.0,IND,INR,True,6.3,1999,90s,NO,Premium
+Bulleya,"Pritam, Amit Mishra & Shilpa Rao",Ae Dil Hai Mushkil (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,5.82,2016,2015s,NO,Premium
+Jab Tak,Armaan Malik,M.S. Dhoni: The Untold Story (Original Motion Picture Soundtrack),Bollywood,18.0,80.0,IND,INR,True,2.9,2016,2015s,NO,Premium
+"Saiyaara (From ""Saiyaara"")","Tanishk Bagchi, Faheem Abdullah, Arslan Nizami & Irshad Kamil","Saiyaara (From ""Saiyaara"") - Single",Bollywood,11.0,11.0,IND,INR,True,6.18,2025,2020s,YES,Budget
+Ishq Wala Love,"Vishal & Shekhar, Neeti Mohan, Salim Merchant & Shekhar Ravjiani",Student of the Year (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,4.3,2012,2010s,NO,Premium
+Saari Duniya Jalaa Denge,Jaani & B. Praak,ANIMAL (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,3.04,2023,2020s,YES,Premium
+Phir Mohabbat,"Mohammed Irfan, Arijit & Saim Bhat",Murder 2 (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,5.5,2011,2010s,NO,Premium
+Ae Dil Hai Mushkil (Title Track),Pritam & Arijit Singh,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.48,2016,2015s,NO,Premium
+Saathiya,Sonu Nigam,Saathiya (Original Motion Picture Soundtrack),Bollywood,15.0,110.0,IND,INR,True,5.96,2002,2000s,NO,Budget
+Mast Magan,Arijit Singh & Chinmayi Sripada,2 States (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,4.67,2014,2010s,NO,Premium
+Dil Chori,"Yo Yo Honey Singh, Simar Kaur & Ishers",Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,3.78,2017,2015s,NO,Premium
+Aaj Ki Raat,"Madhubanti Bagchi, Divya Kumar, Sachin-Jigar & Amitabh Bhattacharya",Stree 2 (Original Motion Picture Soundtrack) - EP,Bollywood,18.0,72.0,IND,INR,True,3.81,2024,2020s,YES,Premium
+"Chogada (From ""Loveyatri"")","Darshan Raval, Asees Kaur & Lijo George-Dj Chetas","Chogada (From ""Loveyatri"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.16,2018,2015s,NO,Premium
+Main Yahaan Hoon,Udit Narayan,Veer-Zaara (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,4.92,2004,2000s,NO,Budget
+O O Jaane Jaana,Kamaal Khan,Pyaar Kiya To Darna Kya (Original Motion Picture Soundtrack),Bollywood,15.0,80.0,IND,INR,True,5.75,1998,90s,NO,Budget
+Tere Bin,"Rahat Fateh Ali Khan, Asees Kaur & Tanishk Bagchi",Simmba (Original Motion Picture Soundtrack),Bollywood,18.0,80.0,IND,INR,True,3.85,2018,2015s,NO,Premium
+Sooraj Dooba Hain,Arijit Singh & Aditi Singh Sharma,Roy (Original Motion Picture Soundtrack),Bollywood,18.0,80.0,IND,INR,True,4.41,2014,2010s,NO,Premium
+Tere Bin,Atif Aslam,Bas Ek Pal (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,4.6,2006,2000s,NO,Premium
+"Mere Rashke Qamar (From ""Baadshaho"")","Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan & Tanishk Bagchi","Mere Rashke Qamar (From ""Baadshaho"") - Single",Bollywood,,,IND,INR,True,3.67,2017,2015s,NO,Premium
+Love You Zindagi,Amit Trivedi & Jasleen Royal,Dear Zindagi (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,3.87,2016,2015s,NO,Premium
+Bollywood,Patrick Watson,Love Songs for Robots,Alternative,18.0,120.0,IND,INR,True,6.32,2015,2010s,NO,Premium
+Zaalima,Arijit Singh & Harshdeep Kaur,Raees (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,4.99,2017,2015s,NO,Premium
+Dhun,Mithoon & Arijit Singh,Saiyaara (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,4.61,2025,2020s,YES,Budget
+Kaun Nachdi,Guru Randhawa & Neeti Mohan,Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,3.06,2018,2015s,NO,Premium
+Jaan Se Guzarte Hain,Shashwat Sachdev & Khan Saab,Dhurandhar The Revenge (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,5.52,2026,2020s,YES,Premium
+"Dekhte Dekhte (From ""Batti Gul Meter Chalu"")","Atif Aslam, Nusrat Fateh Ali Khan & Rochak Kohli","Dekhte Dekhte (From ""Batti Gul Meter Chalu"") - Single",Bollywood,,,IND,INR,True,4.27,2018,2015s,NO,Premium
+Jeene Laga Hoon,"Atif Aslam, Shreya Ghoshal & Sachin-Jigar",Ramaiya Vastavaiya (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,3.95,2010,2000s,NO,Premium
+Adhoore,"Vishal Dadlani, Alyssa Mendonsa & Vishal & Shekhar",Break Ke Baad (Original Motion Picture Soundtrack),Bollywood,15.0,80.0,IND,INR,True,4.4,2010,2000s,NO,Budget
+Jo Tere Sang,Mustafa Zahid & Jeet Gannguli,Blood Money (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,5.1,2012,2010s,NO,Premium
+Nadiyon Paar (Let the Music Play Again),"Sachin-Jigar, Rashmeet Kaur, Shamur & IP Singh",Roohi (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,2.73,2021,2020s,YES,Premium
+Kabira (Encore),"Pritam, Harshdeep & Arijit Singh",Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.51,2013,2010s,NO,Premium
+Tere Naal,Akhil Sachdeva,Broken but Beautiful Season 3 (Original Series Soundtrack),TV Soundtrack,18.0,90.0,IND,INR,True,4.27,2021,2020s,YES,Premium
+Din Shagna Da,Jasleen Royal,Phillauri (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,3.59,2017,2015s,NO,Premium
+Humdard,Arijit Singh,Ek Villain (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,4.34,2014,2010s,NO,Premium
+Jo Bhi Main,Mohit Chauhan,Rockstar (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.56,2011,2010s,NO,Premium
+Be Intehaan,"Atif Aslam, Sunidhi Chauhan & Pritam",Race 2 (Original Motion Picture Soundtrack),Bollywood,18.0,120.0,IND,INR,True,4.85,2013,2010s,NO,Premium
+Saiyaara Reprise - Female,"Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Shreya Ghoshal & Irshad Kamil",Saiyaara (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,3.05,2025,2020s,YES,Budget
+Ban Ja Rani,Guru Randhawa,Tumhari Sulu (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,3.77,2017,2015s,NO,Premium
+Subha Hone Na De,"Pritam, Mika Singh & Shefali Alvares",Desi Boyz (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,4.81,2011,2010s,NO,Premium
+Chammak Challo,Akon & Hamsika Iyer,Ra-One (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,3.78,2011,2010s,NO,Premium
+"Tere Pyaar Mein (From ""Tu Jhoothi Main Makkaar"")","Pritam, Arijit Singh, Nikhita Gandhi & Amitabh Bhattacharya","Tere Pyaar Mein (From ""Tu Jhoothi Main Makkaar"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.43,2023,2020s,YES,Premium
+Kamariya,"Aastha Gill, Sachin Sanghvi, Jigar Saraiya & Divya Kumar",Stree (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,3.13,2018,2015s,NO,Premium
+"Tera Mera Pyar (From ""Tera Mera Pyar"")",Kumar Sanu,Best of Bollywood: Wedding Beats,Indian Pop,18.0,120.0,IND,INR,True,6.22,2004,2000s,NO,Premium
+Tum Ho Toh,"Vishal Mishra, Hansika Pareek & Raj Shekhar",Saiyaara (Original Motion Picture Soundtrack),Bollywood,11.0,50.0,IND,INR,True,5.3,2025,2020s,YES,Budget
+Pee Loon,Pritam & Mohit Chauhan,Once Upon a Time In Mumbaai (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.76,2010,2000s,NO,Premium
+Badtameez Dil,"Pritam, Benny Dayal & Shefali Alvares",Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.21,2013,2010s,NO,Premium
+O Rangrez,"Shankar Ehsaan Loy, Shreya Ghoshal & Javed Bashir",Bhaag Milkha Bhaag (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,6.41,2013,2010s,NO,Premium
+Abhi Toh Party Shuru Hui Hai,Badshah & Aastha,Khoobsurat (Original Motion Picture Soundtrack),Bollywood,18.0,60.0,IND,INR,True,3.0,2014,2010s,NO,Premium
+Tu Hai Ki Nahi,Ankit Tiwari,Roy (Original Motion Picture Soundtrack),Bollywood,18.0,80.0,IND,INR,True,5.57,2015,2010s,NO,Premium
+"Manike (From ""Thank God"")","Yohani, Jubin Nautiyal, Tanishk Bagchi, Surya Ragunnathan, Surya Ragunaathan, Chamath Sangeeth, Rashmi Virag, Dulan ARX & Mellow D","Manike (From ""Thank God"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.29,2022,2020s,YES,Premium
+Bekhayali (Arijit Singh Version),Arijit Singh,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,6.17,2019,2015s,NO,Premium
+Dus Bahane,Shaan & KK,Dus (Original Motion Picture Soundtrack),Bollywood,15.0,100.0,IND,INR,True,3.45,2005,2000s,NO,Budget
+Tujhe Kitna Chahein Aur (Film Version),Jubin Nautiyal,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.6,2019,2015s,NO,Premium
+London Thumakda,"Labh Janjua, Sonu Kakkar, Neha Kakkar & Amit Trivedi",Queen (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,3.84,2014,2010s,NO,Premium
+"Ve Kamleya (From ""Rocky Aur Rani Kii Prem Kahaani"")","Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi & Amitabh Bhattacharya","Ve Kamleya (From ""Rocky Aur Rani Kii Prem Kahaani"") - Single",Bollywood,18.0,18.0,IND,INR,True,4.12,2023,2020s,YES,Premium
+I Hate Luv Storys,Vishal & Shekhar & Vishal Dadlani,I Hate Luv Storys (Original Motion Picture Soundtrack),Bollywood,18.0,140.0,IND,INR,True,4.75,2010,2000s,NO,Premium
+Kala Chashma,"Amar Arshi, Badshah, Neha Kakkar & Indeep Bakshi",Baar Baar Dekho (Original Motion Picture Soundtrack),Bollywood,18.0,108.0,IND,INR,True,3.12,2016,2015s,NO,Premium
+Sheila Ki Jawani,"Sunidhi Chauhan, Vishal Dadlani & Vishal & Shekhar",Tees Maar Khan (Original Motion Picture Soundtrack),Bollywood,15.0,80.0,IND,INR,True,4.7,2010,2000s,NO,Budget
+Guzarish,Javed Ali & Sonu Nigam,Ghajini (Original Motion Picture Soundtrack),Bollywood,15.0,80.0,IND,INR,True,5.45,2008,2000s,NO,Budget
+Dil Chahta Hai,Shankar Mahadevan,Dil Chahta Hai (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,5.17,2001,2000s,NO,Premium
+Kiska Rasta Dekhe,Kishore Kumar,Joshila (Original Soundtrack),Soundtrack,15.0,70.0,IND,INR,True,4.3,1973,,NO,Budget
+Yeh Aaina,Amaal Mallik & Shreya Ghoshal,Kabir Singh (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,5.19,2019,2015s,NO,Premium
+Kahin To,Rashid Ali & Vasundhara Das,Jaane Tu... Ya Jaane Na (Original Motion Picture Soundtrack),Bollywood,15.0,80.0,IND,INR,True,5.05,2008,2000s,NO,Budget
+Khairiyat (Happy),Pritam & Arijit Singh,Chhichhore (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.51,2019,2015s,NO,Premium
+The Breakup Song,"Pritam, Arijit Singh, Badshah, Jonita Gandhi & Nakash Aziz",Ae Dil Hai Mushkil (Original Motion Picture Soundtrack),Bollywood,18.0,100.0,IND,INR,True,4.21,2016,2015s,NO,Premium
+Mehrama,"Pritam, Darshan Raval & Antara Mitra",Love Aaj Kal (Original Motion Picture Soundtrack),Bollywood,18.0,190.0,IND,INR,True,4.16,2020,2015s,NO,Premium
+Beqaaboo,"OAFF, Savera, Shalmali Kholgade & Kausar Munir",Gehraiyaan (Original Motion Picture Soundtrack),Bollywood,18.0,108.0,IND,INR,True,3.12,2022,2020s,YES,Premium
+Dil Kya Kare,Kishore Kumar,Julie (Original Motion Picture Soundtrack) - EP,Soundtrack,15.0,90.0,IND,INR,True,6.73,1975,,NO,Budget
+"What Jhumka ? (From ""Rocky Aur Rani Kii Prem Kahaani"")","Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh, Madan Mohan & Amitabh Bhattacharya","What Jhumka ? (From ""Rocky Aur Rani Kii Prem Kahaani"") - Single",Bollywood,18.0,18.0,IND,INR,True,3.56,2023,2020s,YES,Premium
+Tu Meri,Vishal Dadlani & Vishal & Shekhar,Bang Bang (Original Motion Picture Soundtrack),Bollywood,18.0,90.0,IND,INR,True,4.28,2014,2010s,NO,Premium
+Señorita,"Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez",Zindagi Na Milegi Dobara (Original Motion Picture Soundtrack),Bollywood,18.0,110.0,IND,INR,True,3.83,2011,2010s,NO,Premium
